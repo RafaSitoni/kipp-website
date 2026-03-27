@@ -38,10 +38,10 @@ const _founders = [
 ]
 
 const specialties = [
-  { icon: Code2,    color: "#34D399", label: "Engenheiro de Software",        sub: "Arquitetura de sistemas escaláveis e IA" },
-  { icon: BarChart3, color: "#2563EB", label: "Especialista em Growth & Vendas", sub: "Aquisição, conversão e funis digitais" },
-  { icon: Layers,   color: "#818CF8", label: "Especialista em Operações",     sub: "Processos, Lean Six Sigma e escalabilidade" },
-  { icon: ShieldCheck, color: "#F59E0B", label: "Especialista em Automação",  sub: "Fluxos inteligentes e integrações omnichannel" },
+  { icon: Code2,    color: "#34D399", label: "Engenheiros de Software",        sub: "Arquitetura de sistemas escaláveis e IA" },
+  { icon: BarChart3, color: "#2563EB", label: "Especialistas em Growth & Vendas", sub: "Aquisição, conversão e funis digitais" },
+  { icon: Layers,   color: "#818CF8", label: "Especialistas em Operações",     sub: "Processos, Lean Six Sigma e escalabilidade" },
+  { icon: ShieldCheck, color: "#F59E0B", label: "Especialistas em Automação",  sub: "Fluxos inteligentes e integrações omnichannel" },
 ]
 
 const fadeUp = {
