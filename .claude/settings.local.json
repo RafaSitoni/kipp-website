@@ -3,7 +3,8 @@
     "allow": [
       "Bash(npx next:*)",
       "mcp__Claude_Preview__preview_start",
-      "Bash(npm install:*)"
+      "Bash(npm install:*)",
+      "Bash(gh auth:*)"
     ]
   }
 }
